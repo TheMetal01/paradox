@@ -11,9 +11,9 @@ General Instruction
 
 
 Game Rules
-1. In the Medium round we have 2 types of question 
+1. In the Hard round we have 2 types of question 
 First one is Capture the flag: In Capture the flag we need to find some clues and based on those clues
 we need to find a password that will open a PDF file consisting of the final flag;
 Or Else you can directly find the flag of the paticular problem;
-2. Second one is There will be problem based on linux commands so you need think about the paticular commands to the flag of that problem.
+2. Second one is There will be problem based on C and Python so you need think about the code to get the flag of that problem.
 3. You will be provided with both Windows as well as Kali Linux 
